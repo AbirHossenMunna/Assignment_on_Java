@@ -58,5 +58,5 @@ Output: m sq ngnr
 
 12. A core i 7 laptop price is 85000 tk and a gaming mouse price is 2500 tk. If I buy the laptop and 1 piece mouse, what will be my total cost after giving 15% discount? [Extract the digits from the paragraph and calculate the price]
 
-### Here Docx File Link
-https://docs.google.com/document/d/1Z78IKh2CxPud-rmrr0D7MUk7Rp-yIY6JuU9KggS8Y6Q/edit?tab=t.0
+## Here Docx File Link
+[Docx](https://docs.google.com/document/d/1Z78IKh2CxPud-rmrr0D7MUk7Rp-yIY6JuU9KggS8Y6Q/edit?tab=t.0)

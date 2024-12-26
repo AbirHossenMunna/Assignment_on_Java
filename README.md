@@ -52,9 +52,11 @@ numbers=[1, 1, 2, 3, 1, 2, 4, 5, 6, 5, 4, 7]
 Output: 
 3, 6, 7
 
-
 11. Remove Vowels from a String 
 Input: I am a SQA Engineer
 Output: m sq ngnr   
 
-12. A core i 7 laptop price is 85000 tk and a gaming mouse price is 2500 tk. If I buy the laptop and 1 piece mouse, what will be my total cost after giving 15% discount? [Extract the digits from the paragraph and calculate the price] 
+12. A core i 7 laptop price is 85000 tk and a gaming mouse price is 2500 tk. If I buy the laptop and 1 piece mouse, what will be my total cost after giving 15% discount? [Extract the digits from the paragraph and calculate the price]
+
+### Here Docx File Link
+https://docs.google.com/document/d/1Z78IKh2CxPud-rmrr0D7MUk7Rp-yIY6JuU9KggS8Y6Q/edit?tab=t.0

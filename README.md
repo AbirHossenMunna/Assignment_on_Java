@@ -53,8 +53,7 @@ Output:
 3, 6, 7
 
 
-11.
-Remove Vowels from a String 
+11.Remove Vowels from a String 
 Input: I am a SQA Engineer
 Output: m sq ngnr   
 
